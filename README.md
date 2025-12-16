@@ -72,6 +72,8 @@ Random Forest provided the best balance of **accuracy, robustness, and interpret
 
 - **Non-linear depreciation:**  
   Cars lose 60–70% of value in the first 5 years; depreciation flattens after ~15–20 years.
+  <img width="824" height="551" alt="image" src="https://github.com/user-attachments/assets/835c6929-4a4b-491c-9b3f-e8578bbc5721" />
+
 
 - **Top price drivers:**  
   Engine power, vehicle dimensions, and age matter more than brand name.
