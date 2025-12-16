@@ -66,6 +66,9 @@ Random Forest provided the best balance of **accuracy, robustness, and interpret
 - **CV R²:** 0.9638  
 - **No overfitting:** Train R² (0.9942) vs Test R² (0.9649)
 
+<img width="960" height="590" alt="image" src="https://github.com/user-attachments/assets/d901e548-9bcb-4387-a2b5-5f1ce87e2087" />
+
+
 ---
 
 ## 🔍 Key Insights
